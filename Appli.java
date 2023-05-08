@@ -16,7 +16,7 @@ public class Appli extends JFrame{
         Grille gOrdi = new Grille();
         gOrdi.ia();
         gOrdi.show();
-
+ 
 
         jp.setLayout(new BorderLayout());
         jp.add(gPlayer,BorderLayout.WEST);
