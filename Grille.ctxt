@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Grille
+comment1.params=bateau
+comment1.target=int\ getNbCases(int)
+comment2.params=
+comment2.target=Grille()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=
+comment4.target=void\ player()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ printPlateau()
+comment7.params=i\ j
+comment7.target=java.lang.String\ getBoat(int,\ int)
+comment8.params=
+comment8.target=void\ ia()
+comment9.params=
+comment9.target=void\ joueur()
+numComments=10
